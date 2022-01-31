@@ -1,0 +1,7 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+.address-column {
+    text-align: right;
+  }
